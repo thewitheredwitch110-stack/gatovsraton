@@ -54,3 +54,5 @@ while True:
         break
 
     turno += 1
+
+erika_sound = "erika_sound.mp3"
